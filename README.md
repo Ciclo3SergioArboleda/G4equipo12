@@ -1,5 +1,4 @@
 # G4equipo12
-
-Anderson debe escribir el codigo aqui
 hola mundo!
-
+Mi nombre es harold rocha
+Anderson debe escribir el codigo aqui
