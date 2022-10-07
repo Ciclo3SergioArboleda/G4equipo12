@@ -1,4 +1,4 @@
-package com.example.reto3team;
+package com.doctorsapplicationg4e12;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

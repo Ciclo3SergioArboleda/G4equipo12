@@ -1,13 +1,13 @@
-package com.example.reto3team;
+package com.doctorsapplicationg4e12;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Reto3teamApplication {
+public class DoctorsApplicationG4E12 {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Reto3teamApplication.class, args);
+		SpringApplication.run(DoctorsApplicationG4E12.class, args);
 	}
 
 }
